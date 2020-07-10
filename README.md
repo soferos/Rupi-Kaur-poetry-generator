@@ -5,3 +5,4 @@ not considered poetry at all by some critics as many poems just resemble simple 
 I wanted to see how a deep learning model will adapt to that compensating for the small sample size.
 It would definitely be better if the sample was bigger as low temperatures produce similar poems and higher temperatures 
 sometimes produce non-words. Contained within are the text file it was trained on, saved model (in the Rupi Kaur) folder and code. 
+Hands-on Machine Learning by Aurelien Geron has been of great help for this project.
